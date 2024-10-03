@@ -1,2 +1,1 @@
-# hexlet-js
-Hexlet JS repository
+Мой первый проект на Хекслете
